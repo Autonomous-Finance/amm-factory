@@ -1,0 +1,7 @@
+Main "process.lua"
+
+Module "amm" "./amm.lua"
+
+Option "minify-level" "none"
+
+Output 'dist/release.lua'

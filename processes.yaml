@@ -1,0 +1,5 @@
+- name: bark-pool-creator
+  file: dist/release.lua
+  # prerun: reset-modules.lua
+  scheduler: _GQ33BkPtZrqxA84vM8Zk-N2aO0toNNu_C-l-rawrBA
+  module: GYrbbe0VbHim_7Hi6zrOpHQXrSQz07XNtwCnfbFo2I0
